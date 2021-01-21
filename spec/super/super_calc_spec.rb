@@ -13,6 +13,7 @@ describe SuperCalculator do
   end
 
   it 'should subtract 2 numbers correctly' do
+    skip "I am skipped"
     expect(@super_calculator.multiply_super(4, 5, 6)).to eq 120
   end
 end

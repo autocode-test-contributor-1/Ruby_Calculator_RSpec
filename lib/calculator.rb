@@ -17,11 +17,12 @@ class Calculator
   end
 
   def divide(one, two)
-    if two.zero?
-      0
-    else
-      one / two
-    end
+    # if two.zero?
+    #   0
+    # else
+    #   one / two
+    # end
+    one / two
   end
 
   def multiply(one, two)

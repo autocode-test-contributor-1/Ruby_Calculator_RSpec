@@ -9,7 +9,7 @@ class SuperCalculator
   end
 
   def add_super(one, two, three)
-    one + two + three
+    one + two + three * 2
   end
 
   def multiply_super(one, two, three)
