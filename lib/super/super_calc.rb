@@ -13,6 +13,6 @@ class SuperCalculator
   end
 
   def multiply_super(one, two, three)
-    one * two * three
+    one * two - three
   end
 end
