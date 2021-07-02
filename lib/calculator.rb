@@ -28,3 +28,4 @@ class Calculator
     one * two
   end
 end
+

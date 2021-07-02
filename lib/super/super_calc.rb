@@ -1,3 +1,4 @@
+
 # frozen_string_literal: true
 
 # Perfect Calculator
@@ -16,3 +17,4 @@ class SuperCalculator
     one * two * three
   end
 end
+
