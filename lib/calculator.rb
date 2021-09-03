@@ -25,7 +25,7 @@ class Calculator
   end
 
   def multiply(one, two)
-    one * two
+    one * multiply(one, two + 1)
   end
 end
 
