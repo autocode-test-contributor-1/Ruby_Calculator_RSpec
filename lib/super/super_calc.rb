@@ -17,4 +17,4 @@ class SuperCalculator
     one * two * three
   end
 end
-
+{
